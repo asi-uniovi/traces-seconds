@@ -25,10 +25,10 @@ this repository to work. You can use these commands:
     wget https://zenodo.org/record/3264869/files/wiki_white.csv.gz?download=1
     wget https://zenodo.org/record/3264869/files/wikipedia_2014_hours.csv.gz?download=1
 
-This are the contents of the repository:
+These are the contents of the repository:
 
 * [1_Trace_Generation](1_Trace_Generation.ipynb): is a jupyter notebook with the trace
-synthetis code. It uses as real [traces](traces) the files in the trace directory for the
+synthetis code. It uses as real traces the files in the trace directory for the
 [World Cup 98](https://zenodo.org/record/3264869/files/wc98_real.csv.gz?download=1) and the
 [Wikipedia in 2014](https://zenodo.org/record/3264869/files/wikipedia_2014_hours.csv.gz?download=1).
 
@@ -40,5 +40,5 @@ These notebooks generate figures in the directory [figs](figs).
 
 The explanation of the software and the traces can be obtained in the paper _Influence
 of the trace resolution and length in the cost optimization process in cloud computing_,
-published in the 2019 International Symposium on Performance Evaluation of Computer and
-Telecommunication Systems (SPECTS 2019).
+published in the [2019 International Symposium on Performance Evaluation of Computer and
+Telecommunication Systems (SPECTS 2019)](http://atc.udg.edu/SPECTS2019/).
